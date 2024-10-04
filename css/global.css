@@ -1,0 +1,15 @@
+/* common */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 16px;
+    color: var(--c-grey);
+    font-family:var(--font-regular);
+    background: linear-gradient(to right,rgb(29, 129, 199) 40%,#10c5e5); 
+}
+
+/* //common */

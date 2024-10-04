@@ -1,0 +1,18 @@
+
+.todo-btn{
+    border: none;
+    width: 100%;
+    outline: none;
+    display: inline-block;
+    gap: 5px;
+    font-size: 16px;
+    padding: 8px 10px;
+    color: var(--c-white);
+    background-color: var(--c-black);
+    border-radius: 5px;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+}
+.todo-btn:hover{
+    background-color: var(--c-black-10);
+}
