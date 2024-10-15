@@ -2,12 +2,12 @@
 @font-face{
     font-family: "Puvi_Regular";
     font-display: swap;
-    src: url("/fonts/Zoho\ Puvi\ Regular.otf");
+    src: url("../fonts/Zoho\ Puvi\ Regular.otf");
 }
 @font-face{
     font-family: "Puvi_Semibold";
     font-display: swap;
-    src: url("/fonts/Zoho\ Puvi\ Semibold.otf");
+    src: url("../fonts/Zoho\ Puvi\ Semibold.otf");
 }
 
 :root{
